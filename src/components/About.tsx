@@ -36,12 +36,6 @@ const About = () => {
                   alt="Ahamed Shadi M"
                   className="w-full max-w-md rounded-2xl"
                 />
-                <div className="absolute -bottom-6 -right-6 glass-card p-6 rounded-2xl">
-                  <div className="text-center">
-                    <div className="text-4xl font-bold text-primary">350+</div>
-                    <div className="text-sm text-muted-foreground">Projects Completed</div>
-                  </div>
-                </div>
               </div>
             </div>
           </motion.div>
