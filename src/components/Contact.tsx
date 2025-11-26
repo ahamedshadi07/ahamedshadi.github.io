@@ -191,27 +191,6 @@ const Contact = () => {
               </div>
             </div>
 
-            {/* Stats */}
-            <div className="glass-card p-8 rounded-2xl">
-              <div className="grid grid-cols-2 gap-6">
-                <div className="text-center">
-                  <div className="text-4xl font-bold text-primary mb-2">400+</div>
-                  <div className="text-sm text-muted-foreground">Projects Completed</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-4xl font-bold text-secondary mb-2">50+</div>
-                  <div className="text-sm text-muted-foreground">Happy Clients</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-4xl font-bold text-primary mb-2">17+</div>
-                  <div className="text-sm text-muted-foreground">Winning Awards</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-4xl font-bold text-secondary mb-2">3+</div>
-                  <div className="text-sm text-muted-foreground">Years Experience</div>
-                </div>
-              </div>
-            </div>
           </motion.div>
         </div>
       </div>
